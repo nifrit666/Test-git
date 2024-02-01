@@ -110,6 +110,6 @@ branch - ветка
 git branch name - создание ветки
 
 
-##GitHub
+## GitHub
 
 
